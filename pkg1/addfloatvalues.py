@@ -1,0 +1,5 @@
+print("Please Enter the values of a and b")
+a= input()
+b= input()
+c= float(a)+float(b)
+print("Result is ", c)

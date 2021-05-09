@@ -1,0 +1,5 @@
+print("Please Enter the values of a and b")
+a= input()
+b= input()
+c= int(a)+int (b)
+print("Result is ", c)
